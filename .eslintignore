@@ -1,0 +1,10 @@
+coverage
+*.generated.ts
+lib
+dist*
+node_modules
+ICD10.ts
+chrome-extensions
+.eslintrc.js
+commitlint.config.js
+lint-staged.config.js
